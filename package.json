@@ -1,0 +1,11 @@
+{
+  "name": "quotes",
+  "version": "1.0.0",
+  "description": "Quotes for days",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
